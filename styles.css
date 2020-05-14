@@ -14,3 +14,8 @@ h1 {
 font-weight: lighter;
     color: rgb(83, 118, 142);
 }
+
+a {
+    font-family: serif;
+    color: rgb(237, 161, 52);
+}
